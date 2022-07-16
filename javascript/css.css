@@ -1,0 +1,218 @@
+*{ margin: 0px;
+   padding: 0px;
+
+  
+}
+
+body{
+    position:fixed;
+    top:12px;
+    left: 12px;
+    bottom: 12px;
+     right: 12px;
+    right: 5Spx;
+    background-color: rgb(0, 0, 0);
+    border: 5px solid rgb(16, 196, 219);
+    padding: 50px 0px 0px 0px;
+    box-shadow: 0px -4px 63px 4px rgb(64, 241, 241);
+    border-radius: 10px;
+}
+green{
+    position:absolute;
+    left: 400px;
+    top: 120px;
+    height: 40px;
+    width: 20px;
+    background-color: green;
+    border-radius: 12px;
+    font-size: 30px;
+    border: 2px solid rgb(165, 27, 27);
+}
+
+
+
+.r{  width: 200px;
+    height: 200px;
+    position: absolute;
+    top:50px;
+   
+    left: -218px;
+    padding: 0px;
+   
+    
+    
+}
+
+.rr{  width: 100px;
+    height: 100px;
+    position: absolute;
+    top:50px;
+   
+    left: -218px;
+    padding: 0px;
+   
+    
+    
+}
+.rrr{  width: 200px;
+    height: 200px;
+    position: absolute;
+   
+    top:50px;
+    left:-1098px;
+    padding: 0px;
+   
+    
+    
+}
+
+.rrrr{  width: 50px;
+    height: 50px;
+    z-index:2;
+    position: absolute;
+    top:30px;
+   
+    left: 218px;
+    padding: 0px;
+   
+    
+    
+}
+
+
+.e{ position: absolute;
+    z-index: 6;
+     top: 227px;
+    width: 50px;
+    height: 50px;
+    color: rgb(10, 23, 212);
+    background-color: rgba(230, 17, 17, 0.253);
+    left: -500px;
+    border: 3px solid;
+    border-radius:25px;
+    border-top-color: blue;
+    border-bottom-color: chartreuse;
+    border-right-color: darkorange;
+    border-left-color:green;
+}
+.e .d{
+    position: absolute;
+     top:170px;
+    width: 40px;
+    height: 40px;
+    border-radius:25px;
+   
+   
+}
+/*  etoile */
+.f{
+
+    position: absolute;
+    top: 25px;
+    right: 300px;
+    background-color: rgb(8, 233, 203);
+    border-radius: 15px;
+    box-shadow: 0px 0px 14px 4px rgb(31, 227, 241);
+    width: 6px;
+    height: 6px;
+    
+  
+}
+.z{
+
+    position: absolute;
+    top: 50px;
+    right: 600px;
+    background-color: rgb(229, 233, 8);
+    border-radius: 15px;
+    box-shadow: 0px 0px 14px 4px rgb(250, 170, 42);
+    width: 6px;
+    height: 6px;
+    
+  
+}
+
+/*  etoile */
+
+
+/*.f:hover{
+    box-shadow: 0px 0px 14px 4px rgb(212, 18, 18);
+    border-radius: 15px;
+}*/
+
+.nav{
+
+    position: absolute;
+    left: 20%;
+    top: 78%;
+    background-color:none;
+    border: 3px solid rgb(6, 235, 235) ;
+    border-radius: 10px  ;
+    box-shadow: 0px 1px 5px 2px rgb(64, 241, 241);
+
+   
+    
+    
+}
+
+.om{
+    position: absolute;
+    top:40px;
+    z-index: 1;
+    left: 225px;
+    padding: 0px;
+    width: 30px;
+    height: 30px;
+    background-color: rgb(0, 3, 3);
+    box-shadow: 0px 0px 19px 13px rgb(245, 238, 181);
+    border-radius: 10px;
+}
+ 
+div > p{ color: rgb(211, 46, 46);}
+
+.d{  position:absolute;
+    z-index: 3;
+    top: 252px;
+    width: 100%;
+    height: 10px;
+    background-color:aqua;
+    border-radius: 10px;
+    box-shadow: 0px -2px 26px 9px rgb(206, 6, 241);
+
+}
+.nav:hover{
+
+    background-color: rgba(16, 7, 24, 0.507);
+    border: 3px solid  rgba(13, 2, 17, 0.767);
+    box-shadow: 0px 1px 5px 2px rgb(206, 6, 241);
+
+}
+button {
+     font-family: Tahoma;
+    font-size: 30px;
+    background-color: rgba(154, 3, 241, 0.52);
+    border-top-color:rgb(189, 190, 190);
+    border-right-color: rgb(8, 219, 156);
+    border-bottom-color: rgb(251, 231, 231);
+    border-left-color: rgb(224, 184, 21);
+    border-radius: 10px;
+    margin: 25px;
+   background-color: rgb(14, 224, 95);
+   box-shadow: 0px 1px 6px 2px rgb(0, 0, 0);
+   
+}
+
+button:hover{
+
+    background-color: rgba(154, 3, 241, 0.52);
+    border-top-color:rgb(189, 190, 190);
+    border-right-color: rgb(8, 219, 156);
+    border-bottom-color: rgb(251, 231, 231);
+    border-left-color: rgb(224, 184, 21);
+    box-shadow: 0px 1px 5px 0px rgb(206, 6, 241);
+    color: cornsilk;
+}
+
+
+
+  
